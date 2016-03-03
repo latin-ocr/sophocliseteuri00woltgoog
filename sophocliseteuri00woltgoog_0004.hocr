@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sophocliseteuri00woltgoog_0004.png"; bbox 0 0 3238 4956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1058 187 1539 432">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1058 187 1539 432">
+     <span class='ocr_line' id='line_1_1' title="bbox 1058 187 1539 432; baseline -0.073 10"><span class='ocrx_word' id='word_1_1' title='bbox 1058 299 1443 432; x_wconf 58' lang='grc' dir='ltr'>(ΜΒΜΜ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1508 187 1539 368; x_wconf 58' lang='lat'><em>7</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 20 723 1397 1259">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 20 723 1538 1259">
+     <span class='ocr_line' id='line_1_2' title="bbox 20 723 1348 1056; baseline -0.045 -65"><span class='ocrx_word' id='word_1_3' title='bbox 20 901 31 1056; x_wconf 67' lang='lat'>3</span> <span class='ocrx_word' id='word_1_4' title='bbox 120 975 128 982; x_wconf 82' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 277 724 585 934; x_wconf 68' lang='lat' dir='ltr'><strong>supfluffls</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 621 724 694 933; x_wconf 81' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 726 725 1016 934; x_wconf 75' lang='lat' dir='ltr'>EURIPIBIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1048 723 1348 934; x_wconf 75' lang='lat' dir='ltr'>ELEETHAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 464 1057 1397 1259; baseline -0.042 -2"><span class='ocrx_word' id='word_1_9' title='bbox 464 1105 535 1259; x_wconf 73' lang='lat' dir='ltr'><strong>uun</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 576 1105 725 1247; x_wconf 65' lang='lat' dir='ltr'><strong>nnuma</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 764 1106 858 1246; x_wconf 70' lang='lat' dir='ltr'><strong>sfflT</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 900 1103 1160 1247; x_wconf 62' lang='lat' dir='ltr'><strong>mmmm.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1346 1057 1397 1152; x_wconf 38' lang='grc' dir='ltr'><strong>ί)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 493 1793 1131 1888">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 493 1793 1131 1888">
+     <span class='ocr_line' id='line_1_4' title="bbox 493 1793 1131 1888; baseline -0.002 -1"><span class='ocrx_word' id='word_1_14' title='bbox 493 1795 785 1888; x_wconf 77' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 824 1793 1131 1887; x_wconf 80' lang='lat' dir='ltr'>PHILOLOGICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1624 4956">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1624 4956">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1624 4956; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1624 4956; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
